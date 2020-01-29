@@ -1,5 +1,8 @@
 # Java_2nd_project
 
+![unnamed](https://user-images.githubusercontent.com/53751665/73323835-185faf00-428c-11ea-91eb-b9bd321ac01e.jpg)
+
+
 자바 1차 프로젝트에서 조금 업그레이드 된 2차 프로젝트입니다.
 - 현재 프로젝트에서 언급 되고 있는 내용은 다음과 같습니다.
 1. 참조 타입
